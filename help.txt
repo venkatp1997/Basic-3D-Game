@@ -1,0 +1,14 @@
+Controls:- 
+Use W,A,D,S to control the block.
+    W-Move up in the camera direction
+    S-Move down in the camera direction
+    A-Rotate camera clockwise
+    D-Rotate camera anti-clockwise
+    Left Arrow-Move left by 1 unit
+    Right Arrow-Move right by 1 unit
+    Up Arrow-Move up by 1 unit
+    Down Arrow-Move down by 1 unit
+Helicopter View
+    Click and drag to rotate clockwise and anticlockwise
+    Use scroll-button to zoom in and out.
+Use Q to quit the game.
